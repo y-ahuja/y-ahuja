@@ -1,4 +1,4 @@
-### Hi there 👋 It's [yatin-ahuja](https://in.linkedin.com/in/)
+### Hi there 👋 It's [yatin-ahuja](https://www.linkedin.com/in/)
 
 Hi,I'm a Mobile App Developer. I love getting involved in Competitive Programming 
 and Problem Solving.❤✌

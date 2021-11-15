@@ -3,7 +3,7 @@
 Hi,I'm a Mobile App Developer. I love getting involved in Competitive Programming 
 and Problem Solving.❤✌
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="login page" width="450" height="500" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="login page" width="400" height="500" />
 
 <!-- ### *Languages and Tools:*  
 

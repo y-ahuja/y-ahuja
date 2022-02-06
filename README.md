@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=y-ahuja&show_icons=true&locale=en&layout=compact" alt="y-ahuja" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=y-ahuja&show_icons=true&locale=en" alt="y-ahuja"  height="400" width="500"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y-ahuja&show_icons=true&locale=en" alt="y-ahuja"  height="400" width="400"/></p>

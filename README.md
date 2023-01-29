@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y-ahuja&label=Profile%20views&color=0e75b6&style=flat" alt="y-ahuja" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Bakchodi**
 
 - 📫 How to reach me **yatinahuja5314@gmail.com**
 
